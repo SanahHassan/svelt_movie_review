@@ -1,0 +1,144 @@
+{
+    "movies": [
+      {
+        "movie_id": "dune",
+        "movie_name": "Dune: Part One",
+        "director": "Denis Villeneuve",
+        "release_date": "2021",
+        "genre": "Science Fiction, Adventure",
+        "rating":90,
+        "ratingDescription":"Brilliant Adaptation",
+        "review":"Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet’s exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity’s greatest potential-only those who can conquer their fear will survive."
+      },
+      {
+        "movie_id": "shrek2",
+        "movie_name": "Shrek 2",
+        "director": "Andrew Adamson, Conrad Vernon, Kelly Asbury",
+        "release_date": "2004",
+        "genre": "Animation, Comedy, Fantasy",
+        "rating":72,
+        "ratingDescription":"Laugh Riot",
+        "review":"Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona’s mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there’s tension in the marriage. The fairy godmother discovers that Shrek has married Fiona instead of her Son Prince Charming and sets about destroying their marriage. Shrek 2 is an absolute comedy classic which improved on the original in every single way imaginable! Every single one of the characters changes and evolves in this one, old and new and the villain is also funny and understandable. It has a lot of great and unexpected jokes up it’s sleeve and takes many risks with its characters and story."
+      },
+      {
+        "movie_id": "thedarkknight",
+        "movie_name": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "release_date": "2008",
+        "genre": "Action, Crime",
+        "rating":81,
+        "ratingDescription":"Unforgettable",
+        "review":"Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker. One of the most successful attempts to make a superhero movie appear realistic. The Major Highlight: Heath Ledger's portrayal of the Joker is arguably the best and greatest incarnation of the Joker character to date. Ledger made an outstanding job portraying the Joker as insane and unpredictable yet utterly terrifying and menacing through his impeccable method acting skills."
+      },
+      {
+        "movie_id": "pulpfiction",
+        "movie_name": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "release_date": "1994",
+        "genre": "Thriller, Crime",
+        "rating":65,
+        "ratingDescription":"A Classic!",
+        "review":"A burger-loving hit man, his philosophical partner, a drug-addled gangster’s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time. I tend to see Pulp Fiction as an experimental movie. Yes, there’s a lot of unusual stuffs like the super long conversation and the mix of violence and humor but being innovative doesn’t necessarily mean the movie is great. I think the brilliance of the movie itself is how everything is so ridiculous."
+      },
+      {
+        "movie_id": "schindlerslist",
+        "movie_name": "Schindler’s List",
+        "director": "Steven Spielberg",
+        "release_date": "1993",
+        "genre": "History, Drama, War",
+        "rating":95,
+        "ratingDescription":"Keep tissues ready",
+        "review":"The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II."
+      },
+      {
+        "movie_id": "forrestgump",
+        "movie_name": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "release_date": "1994",
+        "genre": "Comedy, Drama, Romance",
+        "rating":69,
+        "ratingDescription":"Beautiful watch",
+        "review":"A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him. Hanks’ portrayal of this unlikely American icon lends credulity to his character’s extraordinary feats, keeping the unbelievable nature of his exploits closer to fantastical rather than inconceivable. Gump’s genuine nature grants us perfect accents of simple humor and heartwarming emotion, simultaneously ameliorating the audience from over-the-top gags and overly saccharine moments."
+      },
+      {
+        "movie_id": "fightclub",
+        "movie_name": "Fight Club",
+        "director": "David Fincher",
+        "release_date": "1999",
+        "genre": "Drama",
+        "rating":53,
+        "ratingDescription":"Exciting and climatic",
+        "review":"A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground “fight clubs” forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion. Fight Club remains David Fincher's finest work in his impressive filmography, as he's able to adapt certain aspects of the novel while keeping the themes intact, while showcasing the effects of toxic masculinity and consumerism in our society. The cinematography by Jeff Cronenweth is wonderful and the editing helps compliment the story."
+      },
+      {
+        "movie_id": "inception",
+        "movie_name": "Inception",
+        "director": "Christopher Nolan",
+        "release_date": "2010",
+        "genre": "Action, Adventure, Science Fiction",
+        "rating":73,
+        "ratingDescription":"Classic Nolan",
+        "review":"Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: “inception”, the implantation of another person’s idea into a target’s subconscious. Inception is not just a movie; it's a journey into the uncharted territories of the human mind. Directed by the visionary Christopher Nolan, this film is a mind-bending masterpiece that captivates and challenges its audience in ways few movies ever dare. From its gripping storyline to its breathtaking visual effects and stellar performances, Inception is a cinematic experience that will linger in your thoughts long after the credits roll."
+      },
+      {
+        "movie_id": "savingprivateryan",
+        "movie_name": "Saving Private Ryan",
+        "director": "Steven Spielberg",
+        "release_date": "1998",
+        "genre": "History, Drama, War",
+        "rating":82,
+        "ratingDescription":"Superb!",
+        "review":"As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home. Set during World War II, the movie is renowned for its intense and realistic portrayal of combat, as well as its exploration of themes like sacrifice, bravery, and the human cost of war. Decorated with heart-wrenching battlefield scenes, beautiful depictions of camaraderie, and emotional losses that will leave you running to the store midway through the movie to buy another box of tissues, Saving Private Ryan is, in my opinion, the greatest film ever made."
+      },
+      {
+        "movie_id": "spiritedaway",
+        "movie_name": "Spirited Away",
+        "director": "Hayao Miyazaki",
+        "release_date": "2001",
+        "genre": "Family, Fantasy, Animation",
+        "rating":63,
+        "ratingDescription":"Wholesome watch",
+        "review":"A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family."
+      },
+      {
+        "movie_id": "parasite",
+        "movie_name": "Parasite",
+        "director": "Bong Joon-ho",
+        "release_date": "2019",
+        "genre": "Comedy, Drama, Thriller",
+        "rating":67,
+        "ratingDescription":"Thought provoking",
+        "review":"All unemployed, Ki-taek’s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident. Definitely a MUST WATCH film from 2019, this Palme d’Or winner of Cannes Film Festival sure does not disappoint with it’s hard hitting themes and exceptionally crafted story. The great use of space in the film coupled with well executed direction is what makes the film flow with such ease and keeps the audience engaged and emotionally invested from start to finish."
+      },
+      {
+        "movie_id": "gladiator",
+        "movie_name": "Gladiator",
+        "director": "Ridley Scott",
+        "release_date": "2000",
+        "genre": "Action, Adventure, Drama",
+        "rating":65,
+        "ratingDescription":"Action packed fun!",
+        "review":"In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army’s most capable and trusted generals and a key advisor to the emperor. As Marcus’ devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders. Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences."
+      },
+      {
+        "movie_id": "whiplash",
+        "movie_name": "Whiplash",
+        "director": "Damien Chazelle",
+        "release_date": "2014",
+        "genre": "Music, Drama",
+        "rating":70,
+        "ratingDescription":"Brilliant",
+        "review":"Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity. It's either an 'I love it!' or 'I hate it!' movie. It shows us that a man who you think is your mentor and look up to, is also only human. It talks about the relationship between a student and his teacher and the myriad complexities that make it."
+      },
+      {
+        "movie_id": "thelionking",
+        "movie_name": "The Lion King",
+        "director": "Roger Allers, Rob Minkoff",
+        "release_date": "1994",
+        "genre": "Family, Drama, Animation",
+        "rating":57,
+        "ratingDescription":"Nostalgic",
+        "review":"As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne. From beginning to end, 'The Lion King' is a spectacular epic for the animation genre, and a surefire crowd-pleaser for families as it strikes at an exquisite balance between comedy that is witty and hilarious, and drama that is harrowing and personal with haunting set-pieces, including the chill-inducing wildebeest stampede. There is an awe-inspiring sense of ambition, as well as breathtaking intensity. The enthralling story really spoke out to me; It is a coming-of-age story that possesses layers and some details to make it more intriguing."
+      }
+    ]
+  }
