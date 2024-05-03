@@ -4,16 +4,10 @@ export let movies;
 import MoviePoster from "./MoviePoster.svelte";
 </script>
 
-<div class="movie-grid">
+<div class="grid grid-cols-cols250">
     {#each movies as eachMovie}
     <MoviePoster {eachMovie} />
     {/each}
 </div>
 
-<style>
-.movie-grid{
-    display:grid;
-    grid-template-columns: repeat(auto-fit,minmax(250px, 1fr) );
-}
-</style>
 
