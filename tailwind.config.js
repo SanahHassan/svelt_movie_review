@@ -13,7 +13,10 @@ export default {
       fontSize:{
         'headline':'4.5rem',
         'movieReviewTitle':'5rem'
-      }
+      },
+      gridTemplateColumns: {
+        'cols250': 'repeat(auto-fit,minmax(250px, 1fr))'
+        }
     },
   },
   plugins: [],
