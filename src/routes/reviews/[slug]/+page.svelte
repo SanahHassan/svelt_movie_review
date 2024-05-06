@@ -32,7 +32,7 @@
       
         <div class="grid grid-cols-subgrid gap-4 col-span-2">
             <div class="col-span-2 flex items-center justify-center pt-8">
-                <img class="object-cover object-center w-80 h-120 max-w-full rounded-lg" src="../src/lib/images/{movieData.movie_id}.jpeg" alt={movieData.movie_name}>
+                <img class="object-cover object-center w-80 h-120 max-w-full rounded-lg" src="/images/{movieData.movie_id}.jpeg" alt={movieData.movie_name}>
    
                
             </div>
