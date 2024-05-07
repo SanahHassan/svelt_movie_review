@@ -9,7 +9,7 @@ export default {
       fontFamily:{
         'headline': 'TiemposHeadlineWeb-Bold, Georgia, serif',
         'movieTitle':'Roboto, sans-serif',
-        'searchBar':'Roboto, Helvetica, Arial, sans-serif',
+        'searchBar':'Verdana, Helvetica, Arial, sans-serif',
         'moviePoster':'Fantasy, sans-serif',
       },
       fontSize:{
